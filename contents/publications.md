@@ -1,16 +1,17 @@
-#### Submitted
+- <strong>Yaoyi Cai</strong>, Zekai Yao, Haibo Jiang, Wei Qin, Jun Xiao, Xiuxiang Huang, Jiaji Pan*, Hao Feng*. Rapid detection of fish with SVC symptoms based on machine vision combined with a NAM-YOLO v7 hybrid model. Aquaculture, 582(2024), 740558. (SCI收录，中科院TOP期刊，IF=4.5)
 
-- <strong>S. Li</strong>*, X. Yang, S. M. Mousavi, A. Cao, K. Fan, Y. Liu, C. Wang, and Q. Niu. Learning Earthquake Wave Arrival Time Picking from Labels with Inaccuracies. <strong>Under Review</strong> [[Code]](https://github.com/senli1073/LaNCor)
+- <strong>Yaoyi Cai</strong>, Guorong Xu, Dewang Yang , Haoyue Tian , Faju Zhou , Jinjia Guo*. On-line multi-gas component measurement in the mud logging process based on Raman spectroscopy combined with a CNN-LSTM-AM hybrid model. Analytica Chimica Acta, 1259(2023), 341200. (SCI收录，中科院TOP期刊，IF=6.2)
 
-#### Published
+- <strong>Yaoyi Cai</strong>, Zekai Yao, Xi Cheng, Yixuan He, Shiwen Li, Jiaji Pan*. Deep metric learning framework combined with Gramian angular difference ffeld image generation for Raman spectra classiffcation based on a handheld Raman spectrometer. Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy, 303 (2023) 123085. (SCI收录, 中科院二区, IF= 4.2)
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- <strong>Yaoyi Cai</strong>*, Shiwen Li, Zekai Yao , Tian Li , Qingya Wang. Online detection of concentrate grade in the antimony ffotation process based on in situ Raman spectroscopy combined with a CNN-GRU hybrid model. Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy, 301 (2023) 122909. (SCI收录, 中科院二区，IF= 4.2)
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+- Boyi Zheng, Degang Xu*, Guangzheng Tan, Yiwei Chen, <strong>Yaoyi Cai</strong>. A novel semi-supervised soft sensor modeling method based on deep dynamic and semantic information extraction for concentrate grade prediction in froth flotation. Minerals Engineering, 201(2023) 108179. (SCI收录, 中科院二区, IF= 5.4)
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+- Shiwen Li, Tian Li, <strong>Yaoyi Cai</strong>, Zekai Yao, Miaolei He*. Rapid quantitative analysis of Rongalite adulteration in rice flour using autoencoder and residual-based model associated with portable Raman spectroscopy. Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy, 304 (2023) 123382. (SCI收录, 中科院二区, IF= 4.2)
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
+- 陈奕霏, <strong>蔡耀仪</strong>*, 李诗文. 基于轻量级卷积视觉Transformer的锑浮选工况识别. 激光与光电子学进展, 60(6) (2023) 0615002 (CSCD收录)
 
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+-<strong>Yaoyi Cai</strong>, Degang Xu*, Hong Shi. Rapid identiﬁcation of ore minerals using multi-scale dilated convolutional attention network associated with portable Raman spectroscopy. Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy, 267 (2022) 120607. (SCI收录, 中科院二区, IF= 4.831)
 
+-姚泽楷, <strong>蔡耀仪</strong>*, 李诗文, 陈奕霏. 基于平滑样条曲线结合离散状态转移算法的拉曼光谱基线校正方法. 中国激光, 49(18) (2022) 1811001 (EI收录)

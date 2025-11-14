@@ -1,16 +1,10 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+- 国家自然科学基金青年项目, 61903138, 基于拉曼光谱的矿物浮选精矿品位在线检测方法, 结题, 主持。
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
+- 湖南省自然科学基金青年项目, 2020JJ5366, 基于拉曼光谱的钨浮选精矿品位在线定量分析方法, 结题, 主持。
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2024.
+- 企业外委科研项目, 基于SPC分析的新能源汽车制造过程生产缺陷智能检测方法,在研， 主持。
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2023.
+- 企业外委科研项目, “巷战”中高性能嵌入式过程中多目标检测装置研发，在研，主持。
 
-- Freshman Scholarship (CUMT), 2022.
-
-- Outstanding Undergraduate Thesis Award (Jiangsu, China), 2022.
-
-- First-Prize Corporate Scholarship (CUMT), 2020.
-
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+- 企业外委科研项目, “基于机器视觉的新能源控制器制造过程中PCB焊接缺陷在线检测方法及应用”，在研，主持。
