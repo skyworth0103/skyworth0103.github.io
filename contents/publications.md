@@ -12,6 +12,6 @@
 
 - 陈奕霏, <strong>蔡耀仪</strong>*, 李诗文. 基于轻量级卷积视觉Transformer的锑浮选工况识别. 激光与光电子学进展, 60(6) (2023) 0615002 (CSCD收录)
 
--<strong>Yaoyi Cai</strong>, Degang Xu*, Hong Shi. Rapid identiﬁcation of ore minerals using multi-scale dilated convolutional attention network associated with portable Raman spectroscopy. Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy, 267 (2022) 120607. (SCI收录, 中科院二区, IF= 4.831)
+- <strong>Yaoyi Cai</strong>, Degang Xu*, Hong Shi. Rapid identiﬁcation of ore minerals using multi-scale dilated convolutional attention network associated with portable Raman spectroscopy. Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy, 267 (2022) 120607. (SCI收录, 中科院二区, IF= 4.831)
 
--姚泽楷, <strong>蔡耀仪</strong>*, 李诗文, 陈奕霏. 基于平滑样条曲线结合离散状态转移算法的拉曼光谱基线校正方法. 中国激光, 49(18) (2022) 1811001 (EI收录)
+- 姚泽楷, <strong>蔡耀仪</strong>*, 李诗文, 陈奕霏. 基于平滑样条曲线结合离散状态转移算法的拉曼光谱基线校正方法. 中国激光, 49(18) (2022) 1811001 (EI收录)
