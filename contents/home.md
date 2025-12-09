@@ -1,6 +1,6 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![skyworth0103](https://img.shields.io/badge/skyworth0103-github-blue?logo=github)](https://github.com/skyworth0103)
 
 蔡耀仪，副教授，湖南师范大学工程与设计学院硕士生导师，中国海洋大学信息科学与工程学院访问学者，中南大学自动化学院博士后，湖南师范大学世承青年优秀人才。目前担任SCI期刊Analytica chimica acta、Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy、 Minerals Engineering、IEEE Transactions on Consumer Electronics、Analytical methods、IET Signal Processing、Measurement、Measurement Science and Technology、IEEE Access、Measurement、Measurement Science and Technology、IEEE Access、IEEE Transactions on Industrial Informatics、IEEE Transactions on Instrumentation and Measurement、IEEE Transactions on Mechatronics等多个权威期刊杂志的审稿人。先后主持国家自然科学基金青年项目，湖南省自然科学基金青年项目和多项企业外委科研项目。\
 近年指导的学生中，2名同学获研究生奖学金，多名同学获得一等奖学金。
